@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://reibahpho.alexuslab.com/sitemap.xml
